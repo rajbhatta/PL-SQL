@@ -1,5 +1,5 @@
 DECLARE
 BEGIN
-RAJ.displayFirstName('raj');
-END;
-/
+ RAJ.displayFirstName('Raj Bhatta');
+ END;
+ /
