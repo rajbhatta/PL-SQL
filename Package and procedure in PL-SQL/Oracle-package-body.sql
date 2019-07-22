@@ -5,4 +5,4 @@ BEGIN
 dbms_output.put_line('Hi there your first name is ' || fname);
 END displayFirstName;
 
-END raj;
+END package_test;
