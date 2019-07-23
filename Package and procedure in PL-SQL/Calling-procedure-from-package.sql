@@ -1,5 +1,5 @@
 DECLARE
 BEGIN
-RAJ.displayFirstName('raj');
+  package_test.displayfirstname('Raj Bhatta');
 END;
 /
