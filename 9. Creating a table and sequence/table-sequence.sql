@@ -1,10 +1,12 @@
 -- =====Creating a table
 DROP TABLE TOAD_USER.CUSTOMERS CASCADE CONSTRAINTS;
-CREATE TABLE customers
-( id number NOT NULL,
-  name varchar2(200) NOT NULL,
-  description varchar2(1000)
-);
+CREATE TABLE TOAD_USER.CUSTOMERS
+(
+  ID           NUMBER                           NOT NULL,
+  NAME         VARCHAR2(200 BYTE)               NOT NULL,
+  DESCRIPTION  VARCHAR2(1000 BYTE),
+  USERNAME     VARCHAR2(200 BYTE)
+)
 
 --- ======Creating a sequence
 DROP SEQUENCE TOAD_USER.CUSTOMER_SEQ;
