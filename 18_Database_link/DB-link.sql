@@ -1,0 +1,7 @@
+CREATE DATABASE LINK DB_TEST_RAJ_LINK 
+    CONNECT TO RAJ IDENTIFIED BY RAJ123$
+    USING 'DB_TEST_RAJ';
+	
+	
+----===========Sample query to use Database link ==
+SELECT * FROM EMPLOYEES@DB_TEST_RAJ_LINK;
