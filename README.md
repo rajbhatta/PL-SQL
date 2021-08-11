@@ -33,8 +33,8 @@
 
 17. Database link -- > <a href="18_Database_link/readme.MD"> Click here </a>
 
-18. How to use trigger  -- > <a href="19_How_to_use_Trigger_in_PLSQL/readme.MD"> Click here </a>
+18. How to use trigger  -- > <a href="19_How_to_use_Trigger_in_PLSQL/README.MD"> Click here </a>
 
-19. Package and procedure version 2 -- > <a href="20_Package_and_procedure_in_PL-SQL_v2/README.MD"> Click here </a>
+19. Package and procedure version 2 -- > <a href="20_Package_and_procedure_in_PL-SQL_v2/readme.MD"> Click here </a>
 
 21. Techniques to reset password -- > <a href="21_What_to_do_if_username_and_password_is_lost_in_oracle/readme.MD"> Click here </a>
