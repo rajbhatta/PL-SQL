@@ -1,3 +1,4 @@
+# How to install instantclient on mac to connect to Oracle Server ? #
 1. goto : https://www.oracle.com/database/technologies/instant-client/downloads.html
 2. download instant client and unzip it using
 unzip "file_name"
