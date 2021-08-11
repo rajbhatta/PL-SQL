@@ -25,7 +25,7 @@
 
 13. Generic way to get data from table using column name -- > <a href="13_Generic_way_to_get_data_from_table_using_Colum_name/readme.MD"> Click here </a>
 
-14. Connection to database using servicename -- > <a href="14_Connection_to_database_using_sqlplus_using_service_name/readme.MD"> Click here </a>
+14. Connection to database using servicename -- > <a href="14_Connection_to_database_using_sqlplus_using_service_name/README.MD"> Click here </a>
 
 15. Function -- > <a href="16_Function_using_PL_SQL/readme.MD"> Click here </a>
 
