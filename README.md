@@ -18,3 +18,19 @@
 9. Cusor and look -- > <a href="09_Cursor_Loop_and_Condition/readme.MD"> Click here </a>
 
 10. Procedure --> <a href="10_Procedure/readme.MD"> Click here </a>
+
+11. Procedure and package -- > <a href="11_procedure_and_package/readme.MD"> Click here </a>
+
+12. Restful API call from database -- > <a href="12_RESTful_API_call_using_UTL_HTTP/readme.MD"> Click here </a>
+
+13. Generic way to get data from table using column name -- > <a href="13_Generic_way_to_get_data_from_table_using_Colum_name/readme.MD"> Click here </a>
+
+14. Connection to database using servicename -- > <a href="14_Connection_to_database_using_sqlplus_using_service_name/readme.MD"> Click here </a>
+
+15. Function -- > <a href="16_Function_using_PL_SQL/readme.MD"> Click here </a>
+
+16. Schedular -- > <a href="17_Schedular_Job_to_call_procedure/readme.MD"> Click here </a>
+
+17. Database link -- > <a href="18_Database_link/readme.MD"> Click here </a>
+
+18. How to use trigger  -- > <a href="19_How_to_use_Trigger_in_PLSQL/readme.MD"> Click here </a>

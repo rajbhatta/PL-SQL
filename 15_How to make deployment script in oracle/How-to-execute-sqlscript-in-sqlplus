@@ -1,3 +1,0 @@
-1. Goto sqlplus
-2. Goto directory using CD command where you do have file.
-3. @master-deployment.sql
